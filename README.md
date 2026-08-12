@@ -32,7 +32,7 @@ A machine learning project that identifies potentially fraudulent credit card tr
 * Saved model and scaler for future predictions
 
 ### 📁 Project Files
-app.py
+app.py   
 fraud_detection_model.pkl
-fraud_scaler.pkl
+fraud_scaler.pkl 
 requirements.txt
